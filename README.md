@@ -17,7 +17,6 @@ This Python-based Pivot Table Program allows users to load a dataset (CSV or Exc
   - **Grouped Bar Plot** (using `matplotlib`)
   - **Heatmap** (using `seaborn`)
 
----
 
 ## Requirements
 
@@ -32,7 +31,6 @@ Install requirements:
 pip install pandas matplotlib seaborn
 ````
 
----
 
 ## How to Use
 
@@ -49,7 +47,6 @@ pip install pandas matplotlib seaborn
    * Choose an aggregation function (e.g., `sum`, `mean`)
    * Pick a visualization type (`heatmap` or `barplot`)
 
----
 
 ## Example
 
@@ -64,7 +61,6 @@ Which aggregate function would you like to use (sum, mean, etc.)?: sum
 How would you like to visualize your data? (heatmap or bar plot): heatmap
 ```
 
----
 
 ## Notes
 
@@ -72,7 +68,6 @@ How would you like to visualize your data? (heatmap or bar plot): heatmap
 * The program handles most data formatting issues, but expects clean tabular data.
 * Currently supports only `.csv` and `.xlsx` formats.
 
----
 
 ## Incoming updates
 
